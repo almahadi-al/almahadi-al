@@ -9,7 +9,7 @@
 - 🚀 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**
 - 🔥 Currently focusing on **Python**
 - ⚙️ Improving my **Neovim setup** for development. I love using Neovim & Archlinux.
-- 🌍 Aspiring to pursue a **Master's degree in the Japan** and work in **AI/ML/Data Science**
+<!- 🌍 Aspiring to pursue a **Master's degree in the Japan** and work in **AI/ML/Data Science**!>
 - 💡 Love exploring **automation, programming contests, and innovative problem-solving**
 
 ---
