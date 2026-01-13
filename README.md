@@ -9,7 +9,6 @@
 - 🚀 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**
 - 🔥 Currently focusing on **Python**
 - ⚙️ Improving my **Neovim setup** for development. I love using Neovim & Archlinux.
-<!- 🌍 Aspiring to pursue a **Master's degree in the Japan** and work in **AI/ML/Data Science**!>
 - 💡 Love exploring **automation, programming contests, and innovative problem-solving**
 
 ---
@@ -18,13 +17,13 @@
 
 #### 🚀 Languages & Frameworks:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 📊 Data & ML Tools:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white)
 
 #### 🛠️ Dev & Tools:
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
