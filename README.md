@@ -8,7 +8,6 @@
 - 🎓 **Mathematics major** (Expected graduation: 2027)
 - 🚀 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**
 - 🔥 Currently focusing on **Python**
-- ⚙️ Improving my **Neovim setup** for development. I love using Neovim & Archlinux.
 - 💡 Love exploring **automation, programming contests, and innovative problem-solving**
 
 ---
