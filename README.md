@@ -7,7 +7,7 @@
 ### 🧑‍💻 About Me:
 - 🎓 **Mathematics major** (Expected graduation: 2027)
 - 🚀 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**
-- 🔥 Currently focusing on **Python**
+- 🔥 Currently focusing on **Machine Learning**
 - 💡 Love exploring **automation, programming contests, and innovative problem-solving**
 
 ---
